@@ -2,10 +2,10 @@
   "name": "midnight-sapphire",
   "displayName": "Midnight Sapphire ✨",
   "description": "Unlock the secrets of coding under the starlight ✨ with Midnight Sapphire. Immerse yourself in a luxuriously dark coding experience, where every keystroke shines bright. ⭐️ Let your code sparkle with elegance and sophistication. ✨",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "hassancoder1",
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.10.0"
   },
   "categories": [
     "Themes"
