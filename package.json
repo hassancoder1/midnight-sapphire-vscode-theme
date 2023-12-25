@@ -1,0 +1,59 @@
+{
+  "name": "midnight-sapphire",
+  "displayName": "Midnight Sapphire ✨",
+  "description": "Unlock the secrets of coding under the starlight ✨ with Midnight Sapphire. Immerse yourself in a luxuriously dark coding experience, where every keystroke shines bright. ⭐️ Let your code sparkle with elegance and sophistication. ✨",
+  "version": "1.0.0",
+  "publisher": "hassancoder1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "color-theme",
+    "dark-theme",
+    "astral",
+    "bloom",
+    "flowers",
+    "galaxy",
+    "coding",
+    "creativity",
+    "visual-appeal",
+    "inspiration",
+    "productivity",
+    "color theme",
+    "dark theme",
+    "dark",
+    "blue",
+    "sapphire",
+    "elegant",
+    "refined",
+    "productive",
+    "focus",
+    "coding",
+    "developer",
+    "programmer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hassancoder1/midnight-sapphire-vscode-theme"
+  },
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hassancoder1/midnight-sapphire-vscode-theme/issues"
+  },
+  "homepage": "https://github.com/hassancoder1/midnight-sapphire-vscode-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Sapphire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-sapphire-vscode-dark-color-theme.json"
+      }
+    ]
+  }
+}
