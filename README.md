@@ -1,6 +1,6 @@
 **# Midnight Sapphire ✨ Unlock the secrets of coding under the starlight.**
 
-Midnight Sapphire VS Code Theme: [https://github.com/hassancoder1/midnight-sapphire-vscode-theme](https://github.com/hassancoder1/midnight-sapphire-vscode-theme)
+Midnight Sapphire VS Code Theme: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hassancoder1.midnight-sapphire)
 
 **Immerse yourself in a luxuriously dark coding experience with Midnight Sapphire. Let your code sparkle with elegance and sophistication.**
 
@@ -8,19 +8,19 @@ Midnight Sapphire VS Code Theme: [https://github.com/hassancoder1/midnight-sapph
 
 ### HTML Syntax highlight:
 
-[**HTML Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-html-syntax-highlight.png)
+![**HTML Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-html-syntax-highlight.png)
 
 ### CSS Syntax highlight:
 
-[**CSS Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-css-syntax-highlight.png)
+![**CSS Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-css-syntax-highlight.png)
 
 ### JavaScript Syntax highlight:
 
-[**JavaScript Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-js-syntax-highlight.png)
+![**JavaScript Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-js-syntax-highlight.png)
 
 ### PHP Syntax highlight:
 
-[**PHP Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-php-syntax-highlight.png)
+![**PHP Syntax highlight**](https://github.com/hassancoder1/midnight-sapphire-vscode-theme/raw/HEAD/images/midnight-sapphire-php-syntax-highlight.png)
 
 ## Features
 
